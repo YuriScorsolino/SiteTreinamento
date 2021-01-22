@@ -1,0 +1,54 @@
+*{
+	margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(61, 60, 60);
+ }
+
+div#denun{
+	width: 420px;
+    margin: 150px auto 0px auto;
+
+}
+input{
+    display: block;
+    height: 35px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.678) ;
+    font-size: 16px;
+    padding: 5px 10px;
+    background-color: rgba(255,255,255,0.2);
+    outline: none;
+ }
+
+
+h1, h3, h4, h5, h6 {
+  text-align: center;
+  font-style: italic;
+  position: absolute;
+  left: 33%;
+  top: 15%;
+  color:black;
+  text-shadow: 0 0 0.2em rgb(255, 0, 0), 0 0 0.2em rgb(255, 0, 0);
+  font-size: 22px;
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+  position: absolute;
+  left: 32%;
+  top: 10%;  
+  color:black;
+  text-shadow: 0 0 0.2em rgb(255, 0, 0), 0 0 0.2em rgb(255, 0, 0);
+  font-size: 25px;
+}
+
+.submit{
+    margin-left: 0%;
+    background-color: green;
+}
